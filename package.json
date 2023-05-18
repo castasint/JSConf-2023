@@ -1,0 +1,31 @@
+{
+  "name": "getting-started-with-langchainjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "langchain",
+    "openai",
+    "llm"
+  ],
+  "author": "Hanuma <castasstring@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "langchain": "^0.0.75",
+    "pdf-parse": "^1.1.1",
+    "colors": "^1.4.0",
+    "openai": "^3.2.1",
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.0.3",
+    "hnswlib-node": "^1.4.2",
+    "mammoth": "^1.5.1",
+    "pdf2json": "^2.0.2",
+    "pg": "^8.10.0",
+    "pg-hstore": "^2.3.4",
+    "typeorm": "^0.3.15"
+  },
+  "type": "module"
+}
