@@ -1,5 +1,7 @@
 
-# JSConf-2023 Setup
+# JSConf-2023 
+
+## Setup
 
 To begin, please install the latest version of [NodeJS](https://nodejs.org).
 
